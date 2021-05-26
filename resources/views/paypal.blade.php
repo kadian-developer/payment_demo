@@ -9,8 +9,8 @@
 </head>
 <body>
 	<div class="container">
-    <div class="row">    	
-        <div class="col-md-8 col-md-offset-2">        	
+    <div class="row">
+        <div class="col-md-8 col-md-offset-2">
         	<h3 class="text-center" style="margin-top: 30px;">How to integrate paypal payment in Laravel - websolutionstuff.com</h3>
             <div class="panel panel-default" style="margin-top: 60px;">
 
