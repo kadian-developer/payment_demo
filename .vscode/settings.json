@@ -9,6 +9,7 @@
         "paymaya",
         "paymongo",
         "paypal",
+        "samplegen",
         "txnid"
     ]
 }
