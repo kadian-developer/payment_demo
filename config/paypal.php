@@ -1,7 +1,7 @@
 <?php 
 return [ 
-    'client_id' => 'AQh4lIy00kDKjKdl559l1ZLEVOp36mCajxPKFMwGdbYOhp9N2FRWlItHLj5DbITZ9OkcakrPZC42iPFN',
-	'secret' => 'EIo433WyPb_YoY6hVB4DfqBu5BwGCgeG9HYkqvxAmYjPSs37OPcDfyPi_KnVpNq5cHd6XmfzTUZAPfzk',
+    'client_id' => 'AYms7aJHikVmNhksV7j55LgGiqUVnQqNQZUwGu3F4WYZx0Iqnpr1qsMyTR4m_tECRSWuyKCTe1vPeVsl',
+	'secret' => 'EAsgxr5F450GoeTgVuWU43ua4CxSmFdVvi-9Dm5c9SljUkEptPCz06qyqqsTjQG4lmOFeo44E1N79NUG',
     'settings' => array(
         'mode' => 'sandbox',
         'http.ConnectionTimeOut' => 3000,
