@@ -32,3 +32,11 @@ Route::get('/paypal_demo', function () {
 Route::get('paywithpaypal', array('as' => 'paywithpaypal','uses' => 'PaypalController@payWithPaypal',));
 Route::post('paypal', array('as' => 'paypal','uses' => 'PaypalController@postPaymentWithpaypal',));
 Route::get('paypal', array('as' => 'status','uses' => 'PaypalController@getPaymentStatus',));
+
+Route::get('/device', function () {
+    return view('detact');
+});
+
+Route::get('/checkIp', function () {
+    return view('checkIp');
+});
