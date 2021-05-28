@@ -1,3 +1,9 @@
+Vimeo Details:
+----------------------------------
+u = nr@decodeup.email
+p = NNC345fugs^%shdfK%^34usw*&954Es5
+
+==================================================
 Membership Page on backend side
 
 - CRUD

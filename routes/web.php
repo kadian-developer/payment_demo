@@ -40,3 +40,7 @@ Route::get('/device', function () {
 Route::get('/checkIp', function () {
     return view('checkIp');
 });
+
+Route::get('/apicall', function () {
+    return view('apicall');
+});
