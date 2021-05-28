@@ -4,7 +4,7 @@
  * Do not forget to set these to your Account credentials.
  * It would be better to store these as an admin setting.
  **/
-define('MERCHANT_ID', '');
+define('MERCHANT_ID', 'SAMPLEGEN');
 define('MERCHANT_PASSWORD', '');
 
 define('ENV_TEST', 0);

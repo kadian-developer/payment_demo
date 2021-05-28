@@ -16,6 +16,12 @@ class PaymentController extends Controller
         //
     }
 
+    public function dragonpay()
+    {
+        //
+        return view('dragonpay');
+    }
+
     /**
      * Show the form for creating a new resource.
      *

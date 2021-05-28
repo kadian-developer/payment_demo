@@ -1,0 +1,168 @@
+Vimeo Details:
+----------------------------------
+u = nr@decodeup.email
+p = NNC345fugs^%shdfK%^34usw*&954Es5
+
+==================================================
+Membership Page on backend side
+
+- CRUD
+- Membership plan Name
+- Price
+- Created date
+- Action
+  - Edit 
+  - Delete
+
+Add membership
+
+- CRUD
+- Enter membership title
+- Enter Description
+- Enter Price
+- Submit button
+- Show proper validation message
+- Show proper Error message 
+- Show success responses when membership added successfully
+
+View, Edit and Delete Membership on backend side
+
+- CRUD
+- Membership Title
+- Membership Description
+- Price
+- Update button
+- Show proper validation message
+- Show proper Error message 
+- Show success responses when membership updated successfully
+- Show delete responses when admin membership deleted succssfully"
+
+Add Video Page On backend Side
+
+- CRUD
+- Enter Title
+- Enter Description
+- Enter vimeo video link 
+- Upload banner image
+- Enter Price
+- Select Membership Plan
+- Select Price Status(Free or Paid)
+- Submit button
+- submit redirect all event listing page
+- Show proper validation message
+- Show proper Error message 
+- Show success responses when video add successfully
+
+View, Edit and Delete Video Page On backned Side
+
+- CRUD
+- Title
+- Description
+- Vimeo video link 
+- Upload banner image
+- Enter Price
+- Select Price Status(Free or Paid)
+- Update button
+- Show proper validation message
+- Show proper Error message 
+- Show success responses when video update successfully
+- Show delete responses when admin video delete succssfully
+- Search functionaliity and Pagination on video page
+- search and pagination functionality using data table
+- admin can search any video information in the search box
+- display all data based on that keyword
+- display pagination in bottom of the listing
+
+Video detail Page On backned Side
+
+- CRUD
+- Title
+- Description
+- Vimeo video link 
+- Upload banner image
+- Enter Price
+- Select Price Status(Free or Paid)
+- Update button
+- Show proper validation message
+- Show proper Error message 
+- Show success responses when video update successfully
+- Show delete responses when admin video delete succssfully
+
+Add User from backend side
+
+- CRUD
+- First Name
+- Last Name
+- Phone Number
+- Email Address
+- Submit
+- Layout should be standard as per this website branding 
+- Show proper validation message
+- Show proper Error message 
+- Show success responses when video update successfully
+- Show delete responses when admin can delete any video succssfully
+
+User Listing backend side
+
+- CRUD
+- First Name
+- Last Name
+- Phone Number
+- Email Address
+- Update button
+- Show proper validation message
+- Show proper Error message 
+- Show success responses when user updated successfully
+- Show delete responses when admin can deleted any user succssfully
+- Search functionaliity and Pagination on User listing page
+- search and pagination functionality using data table
+- admin can search any video information in the search box
+- display all data based on that keyword
+- display pagination in bottom of the listing
+
+Coupon Code Page on backend side
+
+- CRUD
+- Coupon Code
+- User Name
+- Created Date
+- Action
+  - Edit
+  - Delete
+- Enter Coupon code
+- Select User Name(Drop-down)
+- Submit button
+- Show proper validation message
+- Show proper Error message 
+- Show success responses when Coupon code added successfully
+
+View, Edit and Delete Coupon code Page On backned Side
+
+- CRUD
+- Coupon code
+- User name(Drop-down)
+- Update button
+- Show proper validation message
+- Show proper Error message 
+- Show success responses when Coupon code updated successfully
+- Show delete responses when admin Coupon code deleted succssfully
+
+Display all user Device details on backend side
+
+- CRUD
+- User ID
+- User Name
+- User IP address
+- Action
+  - Delete
+
+Booking Page on backend side
+
+- CRUD
+- Show Name
+- Show Image
+- User Name
+- Show Price
+- Show Date
+
+
